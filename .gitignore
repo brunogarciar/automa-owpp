@@ -4,8 +4,6 @@
 # Planilha com dados reais
 contatos_whatsapp.xlsx
 
-# Log do pywhatkit
-PyWhatKit_DB.txt
 
 # Cache do Python
 __pycache__/
